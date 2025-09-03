@@ -1,6 +1,6 @@
 module.exports = {
-  presets: ["module:metro-react-native-babel-preset"],
+  presents: ["module:metroreact-native-babel-preset"],
   plugins: [
-    "react-native-reanimated/plugin", // ✅ Apenas este plugin
+    "react-native-reanimated/plugin", // Certifique-se de que este plugin esteja no final da lista
   ],
 };
